@@ -63,7 +63,8 @@ and G5 (Bo,abar,b);
 endmodule
 ```
 
-Developed by: RegisterNumber:*/
+Developed by:Arikatla Hari Veera Prasad
+RegisterNumber:212223240014*/
 
 **RTL Schematic**
 ![image](https://github.com/Hariveeraprasad-2006/HALF_ADDER_SUBTRACTOR/assets/145049988/1466f647-9cf5-4676-8b8d-88b7751c0641)
